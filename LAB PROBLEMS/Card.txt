@@ -1,0 +1,4 @@
+Name:Aadithyan	Age:19	Marks:95
+Name:Aashwin	Age:20	Marks:95
+Name:Abhai	Age:19	Marks:100
+Name:Abhin	Age:19	Marks:95
